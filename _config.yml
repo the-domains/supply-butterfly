@@ -1,4 +1,3 @@
-layout_spectrum: 0.44243743107654154
 typography_spectrum: 0.21713537373580039
 color:
   brandStrength: 0.021929839625954628
@@ -11,4 +10,11 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.44243743107654154
+author:
+  name: Patricia Burgess
+  email: patricia@berkllc.com
 name: Supply Butterfly
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/25a6c283-5480-40de-b671-2fbd4e3d1d98.png
+title: '...it''s the little things '
